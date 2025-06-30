@@ -31,11 +31,6 @@ cd booking-bot
 cd backend
 npm install
 
-
-GEMINI_API_KEY=your_gemini_api_key_here
-SERPAPI_KEY=your_serpapi_key_here
-
-
 node index.js
 # OR use nodemon (if installed)
 npx nodemon index.js
